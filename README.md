@@ -1,3 +1,11 @@
-﻿# Git Try
+# git-try
 
-This is a test repository initialized from D:\git-try.
+A new project.
+
+## Getting Started
+
+...
+
+## License
+
+MIT
